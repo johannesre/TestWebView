@@ -22,13 +22,13 @@
 		8F2B3C3314B5DC2A005893D8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8F2B3C3514B5DC2A005893D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8F2B3C3714B5DC2A005893D8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		8F2B3C3B14B5DC2A005893D8 /* TestWebView-Info.plist */ = {isa = PBXFileReference; path = "TestWebView-Info.plist"; sourceTree = "<group>"; };
+		8F2B3C3B14B5DC2A005893D8 /* TestWebView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestWebView-Info.plist"; sourceTree = "<group>"; };
 		8F2B3C3D14B5DC2A005893D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8F2B3C3F14B5DC2A005893D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8F2B3C4114B5DC2A005893D8 /* TestWebView-Prefix.pch */ = {isa = PBXFileReference; path = "TestWebView-Prefix.pch"; sourceTree = "<group>"; };
-		8F2B3C4214B5DC2A005893D8 /* TestWebViewAppDelegate.h */ = {isa = PBXFileReference; path = TestWebViewAppDelegate.h; sourceTree = "<group>"; };
+		8F2B3C4114B5DC2A005893D8 /* TestWebView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestWebView-Prefix.pch"; sourceTree = "<group>"; };
+		8F2B3C4214B5DC2A005893D8 /* TestWebViewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestWebViewAppDelegate.h; sourceTree = "<group>"; };
 		8F2B3C4314B5DC2A005893D8 /* TestWebViewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestWebViewAppDelegate.m; sourceTree = "<group>"; };
-		8F2B3C4514B5DC2A005893D8 /* TestWebViewViewController.h */ = {isa = PBXFileReference; path = TestWebViewViewController.h; sourceTree = "<group>"; };
+		8F2B3C4514B5DC2A005893D8 /* TestWebViewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestWebViewViewController.h; sourceTree = "<group>"; };
 		8F2B3C4614B5DC2A005893D8 /* TestWebViewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestWebViewViewController.m; sourceTree = "<group>"; };
 		8F2B3C4914B5DC2A005893D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestWebViewViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */

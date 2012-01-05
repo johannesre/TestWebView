@@ -10,6 +10,8 @@
 
 @implementation TestWebViewViewController
 
+@synthesize testWebView;
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
@@ -22,6 +24,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSString *fullURL = @"http://wiki.siemens-enterprise.com/index.php?action=render"; NSURL *url = [NSURL URLWithString:fullURL]; NSURLRequest *requestObj = [NSURLRequest requestWithURL:url]; [testWebView loadRequest:requestObj];
 }
 
 - (void)viewDidUnload
